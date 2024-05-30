@@ -17,7 +17,7 @@ int main(){
             else{
             cout<<"*";}}
             
-        for(int  th=0;th<=n  ;th++){
+        for(int  th=0;th<=n-i-2  ;th++){
             cout<<" ";}
             cout<<endl;}}
         
